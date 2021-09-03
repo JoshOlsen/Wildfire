@@ -1,1 +1,1 @@
-There are several notebooks here and more will be added over time
+The wildfire repository contains jupyterlab files dealing with housing attributes, wildfire spread and the interaction between the two. The transactions file contains code for working with Zillow's ZTRAX dataset.
